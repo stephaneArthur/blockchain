@@ -38,9 +38,9 @@ Un framework de test robuste utilisant `unittest` pour valider chaque fonctionna
 
 ## 👤 Développeur
 **STEPHANE ARTHUR NGUINJEL NGOM** 
-* Ingénieur systèmes, réseaux et cybersécurité[cite: 127].
-* Spécialiste en automatisation (Python, Bash, PowerShell) et sécurité opérationnelle[cite: 137, 211].
-* [cite_start]Certifié **ISO/IEC 27001:2022 Lead Auditor**[cite: 203].
+* Ingénieur systèmes, réseaux et cybersécurité.
+* Spécialiste en automatisation (Python, Bash, PowerShell) et sécurité opérationnelle.
+
 
 ## 📄 Licence
 Ce projet est développé dans un but éducatif et de démonstration technique.
